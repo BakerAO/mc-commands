@@ -1,0 +1,1 @@
+g++ commands.cpp -o commands && ./commands
